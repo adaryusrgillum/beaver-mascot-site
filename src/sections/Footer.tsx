@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="relative flex justify-center lg:justify-start">
             <div className="relative">
               <img
-                src="/images/whale-wave.png"
+                src="images/whale-wave.png"
                 alt="Whale waving"
                 className="w-48 h-auto object-contain drop-shadow-2xl"
               />
@@ -72,7 +72,7 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-3">
-              <img src="/images/whale-logo.png" alt="" className="w-8 h-8 object-contain" />
+              <img src="images/whale-logo.png" alt="" className="w-8 h-8 object-contain" />
               <div>
                 <span className="font-oswald text-sm font-bold text-slate-500 tracking-wider block leading-tight">
                   ADVERTISE<span className="text-sky-500">WHALE</span>.COM

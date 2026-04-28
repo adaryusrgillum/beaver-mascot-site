@@ -161,7 +161,7 @@ export default function CTA() {
 
           <div className="cta-whale relative flex-shrink-0">
             <img
-              src="/images/whale-megaphone.png"
+              src="images/whale-megaphone.png"
               alt="Whale with megaphone"
               className="cta-whale-img w-64 sm:w-80 lg:w-[380px] h-auto object-contain drop-shadow-2xl relative z-10"
             />

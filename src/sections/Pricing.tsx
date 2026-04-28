@@ -19,7 +19,7 @@ const plans = [
     ],
     highlighted: false,
     popular: false,
-    image: '/images/whale-idea.png',
+    image: 'images/whale-idea.png',
   },
   {
     name: 'CURRENT RIDER',
@@ -34,7 +34,7 @@ const plans = [
     ],
     highlighted: false,
     popular: false,
-    image: '/images/whale-idea.png',
+    image: 'images/whale-idea.png',
   },
   {
     name: 'TIDE MASTER',
@@ -49,7 +49,7 @@ const plans = [
     ],
     highlighted: true,
     popular: true,
-    image: '/images/whale-crown.png',
+    image: 'images/whale-crown.png',
   },
   {
     name: 'DEEP BLUE',
@@ -64,7 +64,7 @@ const plans = [
     ],
     highlighted: false,
     popular: false,
-    image: '/images/whale-build.png',
+    image: 'images/whale-build.png',
   },
 ]
 
@@ -205,7 +205,7 @@ export default function Pricing() {
         <div className="pricing-whale mt-24 flex flex-col lg:flex-row items-center justify-between gap-12">
           <div className="flex items-center gap-6">
             <img
-              src="/images/whale-celebrate.png"
+              src="images/whale-celebrate.png"
               alt="Celebrating whale"
               className="w-40 h-auto object-contain drop-shadow-2xl animate-bounce-soft"
             />
